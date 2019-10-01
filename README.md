@@ -1,0 +1,2 @@
+# LSTM-Weather-Forecast
+Multivariate time series forecasting that aims to predict the next hour's weather forecast based on the previous 24 hour time window. Final deep learning project for CSC 578 (Neural Networks and Deep Learning). Base model consisted of a recurrent neural network (RNN) with a single LSTM layer, followed by hyperparameter tuning and variations in depth intended to achieve a closer fit to the data.
