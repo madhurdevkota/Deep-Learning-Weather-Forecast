@@ -2,6 +2,8 @@
 
 **Watch the demo on YouTube: https://youtu.be/D6i254GzW6w**
 
+**[View the Jupyter Notebook for this project](https://github.com/ashwinravrao/Deep-Learning-Weather-Forecast/blob/master/AshwinRao_CSC578710_Final.ipynb)**
+
 **Problem:** Using historical weather data, predict the next hour's temperature from the previous 24 hours' climate and temperature readings. The data contain 14 quantitative variables and 1 String timestamp. We will be primarily using Long-Short-Term Memory neurons for this forecasting problem. We will also experiment with multiple dense layers, as is somewhat standard fare in the literature.
 
 **Variables:**
